@@ -1,2 +1,3 @@
-- Professional shitcoder
-- I use gitlab btw
+- [X] Codes garbage nobody can read
+- [X] Codes garbage with tons of errors preventing it from running
+- [X] Uses Gitlab
